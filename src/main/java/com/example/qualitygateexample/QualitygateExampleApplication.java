@@ -10,4 +10,8 @@ public class QualitygateExampleApplication {
 		SpringApplication.run(QualitygateExampleApplication.class, args);
 	}
 
+	private void unusedPrivateMethod() {
+
+	}
+
 }
